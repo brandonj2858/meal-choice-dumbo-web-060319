@@ -1,4 +1,4 @@
 def meal_choice(meal = "meat")
-  return "meat"
+  return "#{meal}"
 end
 meal_choice("vegan")
